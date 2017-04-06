@@ -1,1 +1,1 @@
-“Primer fichero en el primer repositorio de <Cristina Sanchez Enciso y Paula Otero>”
+“Primer fichero en el primer repositorio de Cristina Sanchez Enciso y Paula Otero”
